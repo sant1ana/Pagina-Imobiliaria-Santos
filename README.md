@@ -29,7 +29,7 @@
 ##  :link: Acesso ao projeto
 
 
-Você pode acessar o projeto final clicando aqui: https://sant1ana.github.io/Pagina-Imobiliaria-Santos/
+Você pode acessar o projeto final clicando aqui: https://silly-cupcake-68ad0e.netlify.app
 
 
 
